@@ -4,6 +4,6 @@ A Slack chat app built with React, Redux, and Firebase
 
 Tools:
 
-Client: React-js, React-Hooks, React-Context-Api, React-Router-Dom, React-reveal, React-Move, material-ui, sass, Lodash.
+Client: React-js, React-Hooks, React-Redux, Redux, React-Router-Dom, sass.
 
-Server: RealTime Database Firebase, React-Firebase-file-uploader, Firebase Storage, Firebase Authentication, Firebase for Hoisting.
+Server: RealTime Database Firebase, Firebase Storage, Firebase Authentication, Firebase for Hoisting.
